@@ -1,0 +1,4 @@
+#ifndef UNIVERSALVALUE_H
+#define UNIVERSALVALUE_H
+
+#endif // UNIVERSALVALUE_H
